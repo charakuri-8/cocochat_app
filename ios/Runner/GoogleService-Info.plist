@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>725271789991-9palgimltqb12bsflbuh0mf09c6sc52c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.725271789991-9palgimltqb12bsflbuh0mf09c6sc52c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCq--g68l6pYXbQWBFaD4phEg6D8VtY0HQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>725271789991</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.charakuri8.cocochatApp</string>
+	<key>PROJECT_ID</key>
+	<string>cocochat-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cocochat-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:725271789991:ios:5738d912a79df0644d3682</string>
+	<key>DATABASE_URL</key>
+	<string>https://cocochat-app.firebaseio.com</string>
+</dict>
+</plist>

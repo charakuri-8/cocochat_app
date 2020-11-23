@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725271789991",
+    "firebase_url": "https://cocochat-app.firebaseio.com",
+    "project_id": "cocochat-app",
+    "storage_bucket": "cocochat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725271789991:android:7296e57e230b21c34d3682",
+        "android_client_info": {
+          "package_name": "com.charakuri8.cocochat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725271789991-3rog2io457330p8croho9dbn4273lhrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt7W431Foy2ieSv0LCRBNB2ajw5cUgnpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725271789991-3rog2io457330p8croho9dbn4273lhrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
